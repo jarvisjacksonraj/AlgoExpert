@@ -1,5 +1,5 @@
     /* * * * * * * * * * * * * * * * * * * * * * *
-     * Similar Same and Problems in LeetCode     *
+     *        Similar Problems in LeetCode       *
      * * * * * * * * * * * * * * * * * * * * * * *
      * Array:
      * 167. Two Sum II - Input array is sorted
