@@ -3,14 +3,14 @@
 
 # ProblemSolving
 
-#### Difficulty Levels
+### Difficulty Levels
 
 📗  Easy  
 📘  Medium  
 📕  Hard  
 📓  Very Hard
 
-## Easy Questions
+### Easy Questions
 
 |S.No| Question                                                                          | Difficulty | Category             | Approach                 |
 |----| --------------------------------------------------------------------------------- | ---------- | -------------------- | ------------------------ |
