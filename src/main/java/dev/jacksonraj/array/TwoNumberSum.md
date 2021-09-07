@@ -1,7 +1,7 @@
     /* * * * * * * * * * * * * * * * * * * * * * *
      *        Similar Problems in LeetCode       *
      * * * * * * * * * * * * * * * * * * * * * * *
-     * Array:
+     * DataStructure.Array:
      * 167. Two Sum II - Input array is sorted
      * 170. Two Sum III - Data structure design
      * 1099. Two Sum Less Than K

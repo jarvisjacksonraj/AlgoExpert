@@ -1,7 +1,7 @@
     /* * * * * * * * * * * * * * * * * * * * * * *
-     * Similar Same and Problems in LeetCode     *
+     * Similar and Problems in LeetCode          *
      * * * * * * * * * * * * * * * * * * * * * * *
-     * Array:
+     * DataStructure.Array:
      * 392. Is Subsequence
      * 792. Number of Matching Subsequences
      * * * * * * * * * * * * * * * * * * * * * * */
